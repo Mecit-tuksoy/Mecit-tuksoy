@@ -1,4 +1,4 @@
-![Your Area](https://www.linkedin.com/in/mecit-toksoy/overlay/background-image/)
+![Your Area](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40serdalkepil%2Faws-devops-tools-and-services-a98c635cbf20&psig=AOvVaw0xI6YvrwOsUtlQibrelIwN&ust=1709102806743000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCy8KL2yoQDFQAAAAAdAAAAABAP)
 
 Hello, my name is [Mecit](https://www.linkedin.com/in/mecit-toksoy/), and I'm an AWS & DevOps Engineer.
 
