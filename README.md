@@ -1,3 +1,5 @@
+![Your Area](https://www.linkedin.com/in/mecit-toksoy/overlay/background-image/)
+
 Hello, my name is [Mecit](https://www.linkedin.com/in/mecit-toksoy/), and I'm an AWS & DevOps Engineer.
 
 <h1 align="center">Hi 👋, I'm Mecit TUKSOY</h1>
