@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My name is Mecit;Welcome to my github profile](https://git.io/typing-svg)
+Hello, my name is [Mecit](https://www.linkedin.com/in/mecit-toksoy/), and I'm an AWS & DevOps Engineer.
 
 <h1 align="center">Hi 👋, I'm Mecit TUKSOY</h1>
 <h3 align="center">"Innovative Cloud Management and DevOps Expert: Shaping Technology from Turkey with AWS"</h3>
