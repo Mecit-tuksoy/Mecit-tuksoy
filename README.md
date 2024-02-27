@@ -25,6 +25,8 @@ Hello, my name is [Mecit](https://www.linkedin.com/in/mecit-toksoy/), and I'm an
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mecit-tuksoy&show_icons=true&locale=en" alt="mecit-tuksoy" /></p>
 
+![snake gif](https://github.com/Mecit-tuksoy/Mecit-tuksoy/blob/output/github-contribution-grid-snake.gif)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mecit-tuksoy&" alt="mecit-tuksoy" /></p>
 
 
