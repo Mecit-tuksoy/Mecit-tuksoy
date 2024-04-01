@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Petclinic**
 
-- 🌱 I’m currently learning **k8s**
-
 - 💬 Ask me about **AWS & DevOps**
 
 - 📫 How to reach me **mecit.tuksoy@gmail.com**
