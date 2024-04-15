@@ -1,10 +1,15 @@
+![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
 
 <h1 align="center">Hi 👋, I'm Mecit TUKSOY</h1>
-<h3 align="center">"Innovative Cloud Management and DevOps Expert: Shaping Technology from Turkey with AWS"</h3>
+<h3 align="center">A passionate Cloud Devops Engineer from Turkey</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Petclinic**
 
-- 💬 Ask me about **AWS & DevOps**
+- 🔭 I’m currently working on **AWS and Devops Projects**
+
+- 👨‍💻 You can access my sample project at https://github.com/Mecit-tuksoy/microservices
+
+- 💬 Ask me about anything  **AWS,Devops**
 
 - 📫 How to reach me **mecit.tuksoy@gmail.com**
 
