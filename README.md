@@ -7,11 +7,16 @@
 
 - 🔭 I’m currently working on **AWS and Devops Projects**
 
-- 👨‍💻 You can access my sample project at https://github.com/Mecit-tuksoy/microservices
+
+- 👨‍💻 You can access my sample project at:
+ https://github.com/Mecit-tuksoy/microservices
+
 
 - 💬 Ask me about anything  **AWS,Devops**
 
+
 - 📫 How to reach me **mecit.tuksoy@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
