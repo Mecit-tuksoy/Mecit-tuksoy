@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mecit TUKSOY</h1>
 <h3 align="center">A passionate Cloud Devops Engineer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 🔭 I’m currently working on **AWS and Devops Projects**
@@ -12,10 +12,10 @@
  https://github.com/Mecit-tuksoy/microservices
 
 
-- 💬 Ask me about anything  **AWS,Devops**\
+- 💬 Ask me about anything  **AWS,Devops**
 
 
-- 📫 How to reach me **mecit.tuksoy@gmail.com**\
+- 📫 How to reach me **mecit.tuksoy@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
