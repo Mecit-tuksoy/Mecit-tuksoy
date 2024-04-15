@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **AWS and Devops Projects**
 
 
-- 👨‍💻 You can access my sample project at:
+- 👨‍💻 You can access my sample project at:\
  https://github.com/Mecit-tuksoy/microservices
 
 
